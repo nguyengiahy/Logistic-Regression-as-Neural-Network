@@ -10,3 +10,4 @@ Accuracy and costs: <br>
 Model tested on an image: <br>
 ![Accuracy and Cost](images/predict_img.png)
 ![Accuracy and Cost](images/predict_text.png)
+
